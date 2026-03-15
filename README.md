@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ayush Chauhan</h1>
 <h3 align="center">A Software Engineer.</h3>
 
+![GIF](./KIROKAZE.gif)
+
 - 🔭 I’m currently working on [B-ware](https://github.com/eyesee11/B-ware)
 
 - 🌱 I’m currently learning **Tauri, .NET**
