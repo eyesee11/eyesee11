@@ -1,25 +1,23 @@
-<h1 align="center">Hi 👋, I'm Ayush Chauhan</h1>
+<h1 align="center">Hola , I'm Ayush Chauhan</h1>
 <h3 align="center">A Software Engineer.</h3>
 
 <p align="center">
   <img src="./KIROKAZE.gif" alt="Animated GIF" />
 </p>   
 
-- 🔭 I’m currently working on [B-ware](https://github.com/eyesee11/B-ware)
+- I’m currently working on [B-ware](https://github.com/eyesee11/B-ware)
 
-- 🌱 I’m currently learning **Tauri, .NET**
+- I’m currently learning **Tauri, .NET**
 
-- 👯 I’m looking to collaborate on [MyWiki](https://github.com/eyesee11/MyWiki)
+- All of my projects are available at [ayushchauhan.me](https://ayushchauhan.me)
 
-- 👨‍💻 All of my projects are available at [https://ayushhhportfolio.netlify.app](https://ayushhhportfolio.netlify.app)
+- Ask me about **RAG, NLP, XGBoost**
 
-- 💬 Ask me about **RAG, NLP, XGBoost**
+- How to reach me **ayushchauhan1164@gmail.com**
 
-- 📫 How to reach me **ayushchauhan1164@gmail.com**
+- Fun fact **The taste of water is it's temperature.**
 
-- ⚡ Fun fact **The taste of water is it's temperature.**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Come say hi!!:</h3>
 <p align="left">
 <a href="https://twitter.com/eyesee_11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eyesee_11" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ayush-chauhan-776321293/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ayush-chauhan-776321293/" height="30" width="40" /></a>
