@@ -13,7 +13,7 @@
 
 - Ask me about **RAG, NLP, XGBoost**
 
-- How to reach me **ayushchauhan1164@gmail.com**
+- How to reach me **say.hi@ayushchauhan.me**
 
 - Fun fact **The taste of water is it's temperature.**
 
